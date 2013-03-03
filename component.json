@@ -1,0 +1,16 @@
+{
+  "name": "easing",
+  "repo": "fonzie/easing",
+  "description": "Easing functions for animations and transitions",
+  "author": "Anthony Short",
+  "main": "easing.scss",
+  "version": "0.0.1",
+  "dependencies": {},
+  "remotes": [
+    "http://fonzie.herokuapp.com/packages"
+  ],
+  "files": [
+    "easing.scss"
+  ],
+  "license": "MIT"
+}
