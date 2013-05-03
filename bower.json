@@ -1,0 +1,9 @@
+{
+  "name": "fonzie-easing",
+  "description": "Easing functions for animations and transitions",
+  "author": "Anthony Short",
+  "main": "index.scss",
+  "version": "0.1.0",
+  "dependencies": {},
+  "license": "MIT"
+}
